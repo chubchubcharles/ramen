@@ -25,6 +25,12 @@ design requirements
 		- submit
 - bonus: data statistics to see how much vocabulary learned over time
 
+pages
+------------
+welcome_page (for general log-in)
+home_page (for users after log-in)
+
+
 
 
 
